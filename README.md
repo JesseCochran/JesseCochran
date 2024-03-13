@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone, I'm Jesse Cochran</h1>
-<h3 align="center">A passionate software engineer who loves making useful tools to assist with everyday life.</h3>
+<h3 align="center">Passionate Software Engineer | Creator of Useful Tools | Tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **Web Design, Android development**
 
@@ -7,13 +7,13 @@
 
 - 📫 How to reach me **logicalcoffeecoder@gmail.com**
 
-- 📄 Know about my experiences [https://jessecochran.github.io/Resume/Resume%202023.pdf](https://jessecochran.github.io/Resume/Resume%202023.pdf)
+- 📄 Know about my experiences [Resume](https://jessecochran.me/resume.pdf)
 
 - ⚡ Fun fact **I'm a student at RMIT studying Software Engineering. I love making apps and other useful tools in assisting me and others in day to day life. I also love making small game development projects in my free time. My languages of choice are Java and C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jesse cochran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesse cochran" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jesse-cochran-78b4b8267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesse cochran" height="30" width="40" /></a>
 <a href="https://instagram.com/logicalcoffeecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="logicalcoffeecoder" height="30" width="40" /></a>
 </p>
 
